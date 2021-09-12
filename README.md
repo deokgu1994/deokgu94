@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=0:000000,100:0f9b0f&height=250&section=header&reversak=flase&text=Mingu%20Kwak&fontSize=80&fontColor=ffffff&fontAlign=70&fontAlignY=43)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=0:000000,100:0f9b0f&height=180&section=header&reversak=flase&text=Mingu%20Kwak&fontSize=80&fontColor=ffffff&fontAlign=70&fontAlignY=35)
 <!-- https://github.com/kyechan99/capsule-render#egg -->
 
 ### Hi there 👋
