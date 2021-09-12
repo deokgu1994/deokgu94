@@ -8,11 +8,11 @@
  
  
 ## ⌨ Skills
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![PyQt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 
+<!-- https://github.com/iloveslowfood -->
 
 <!--
 **deokgu/deokgu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
