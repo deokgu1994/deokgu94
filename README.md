@@ -1,7 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=0:000000,100:0f9b0f&height=180&section=header&reversak=flase&text=Mingu%20Kwak&fontSize=50&fontColor=ffffff&fontAlign=80&fontAlignY=35)
 <!-- https://github.com/kyechan99/capsule-render#egg -->
 
-### Hi there 👋
+### Hi there, I'm Mingu Kwak 👋
+
+**🖥😁 I’m currently learning Machine Learning in Boostcamp AI Tech 2nd by NAVER Connect Foundation **
+ 
 
 <!--
 **deokgu/deokgu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
