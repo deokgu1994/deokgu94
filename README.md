@@ -12,6 +12,8 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![PyQt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 
+## ...
+### 💾 [TIL](https://github.com/deokgu/deokgu/wiki)
 <!-- https://github.com/iloveslowfood -->
 
 <!--
