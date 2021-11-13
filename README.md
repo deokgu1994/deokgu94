@@ -15,13 +15,11 @@
 ## 🎡 &nbsp;Activities
 |   Type    |   Date | Title    | Contents | Organization |
 |   :---    |   :--- | :---   | :--- |:--- |
-|Competition| 2021. 11.<br> | National Pathology Health Datathon 2021 (NPHD 2021)| 
-|Competition| 2021. 10.<br>~ 2021. 11. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| boostcamp AI Tech Competition |[재활용 품목 분류를 위한 Semantic Segmentation](https://github.com/deokgu/semantic-segmentation-level2-cv-09)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | [Aistages](https://stages.ai/)|
-| Competition| 2021. 09.<br>~ 2021. 10. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| boostcamp AI Tech Competition|[재활용 품목 분류를 위한 Object Detection](https://github.com/deokgu/object-detection-level2-cv-09)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | [Aistages](https://stages.ai/)|
-| Competition|  2021. 08.<br>~ 2021. 09. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| boostcamp AI Tech Competition|[마스크 착용 상태 분류](https://github.com/deokgu/image-classification-level1-23)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | [Aistages](https://stages.ai/)|
+|Competition| 2021. 11.<br>~ 2021. 11.| National Pathology Health Datathon 2021 (NPHD 2021)| 
+|Competition| 2021. 10.<br>~ 2021. 11.| boostcamp AI Tech Competition |[재활용 품목 분류를 위한 Semantic Segmentation](https://github.com/deokgu/semantic-segmentation-level2-cv-09)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | [Aistages](https://stages.ai/)|
+| Competition| 2021. 09.<br>~ 2021. 10.| boostcamp AI Tech Competition|[재활용 품목 분류를 위한 Object Detection](https://github.com/deokgu/object-detection-level2-cv-09)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | [Aistages](https://stages.ai/)|
+| Competition|  2021. 08.<br>~ 2021. 09.| boostcamp AI Tech Competition|[마스크 착용 상태 분류](https://github.com/deokgu/image-classification-level1-23)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | [Aistages](https://stages.ai/)|
 
-## ...
-#### 💾 [TIL](https://github.com/deokgu/deokgu/wiki)
 
 ## ...
 #### 💾 [TIL](https://github.com/deokgu/deokgu/wiki)
