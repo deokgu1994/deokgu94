@@ -3,9 +3,10 @@
 
 ## Hi there, I'm Mingu Kwak 👋
 
-**🖥😁 I’m currently learning Machine Learning in Boostcamp AI Tech 2nd by NAVER Connect Foundation**
+**🖥😁 I’m currently learning Machine Learning in Boostcamp AI Tech 2nd by NAVER Connect Foundation**<br>
+**📍🧐 
 <br>
-
+🧐
 ## 🔨 Skills
 ML/DL: PyTorch<br>
 Data Analysis: Pandas, NumPy, Seaborn/MatplotLib<br>
@@ -15,7 +16,7 @@ Using: DVC, CANoe, PySdie2(PyQt5), Docker
 
 ## 🫀 Interests
 MLOps<br>
-Optimizer<br>
+optimization<br>
 Embedded
 <br>
 
