@@ -4,21 +4,23 @@
 ## Hi there, I'm Mingu Kwak 👋
 
 **🖥😁 I’m currently learning Machine Learning in Boostcamp AI Tech 2nd by NAVER Connect Foundation**
-<br><br>
- 
- 
+<br>
+
+
 ## 🔨 Skills
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![PyQt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
-<!-- 
-## 🎡 &nbsp;Activities
-|   Type    |   Date | Title    | Contents | Organization |
-|   :---    |   :--- | :---   | :--- |:--- |
-|Competition| 2021. 11.<br> | National Pathology Health Datathon 2021<br>(NPHD 2021)| 
-|Competition| 2021. 10.<br>~ 2021. 11. | boostcamp AI Tech Competition |[재활용 품목 분류를 위한 Semantic Segmentation](https://github.com/deokgu/semantic-segmentation-level2-cv-09) | [Aistages](https://stages.ai/)|
-| Competition| 2021. 09.<br>~ 2021. 10.| boostcamp AI Tech Competition|[재활용 품목 분류를 위한 Object Detection](https://github.com/deokgu/object-detection-level2-cv-09); | [Aistages](https://stages.ai/)|
-| Competition|  2021. 08.<br>~ 2021. 09. | boostcamp AI Tech Competition|[마스크 착용 상태 분류](https://github.com/deokgu/image-classification-level1-23) | [Aistages](https://stages.ai/)| -->
+ML/DL: PyTorch<br>
+Data Analysis: Pandas, NumPy, Seaborn/MatplotLib<br>
+Language: Python, C/C++<br>
+Using: DVC, CANoe, PySdie2(PyQt5), Docker
+
+<br>
+
+## 🫀 Interests
+MLOps<br>
+Optimizer<br>
+Embedded<br>
+
+<br>
 
 ## 🎡 &nbsp;Activities
 |   Type    |   Date | Title    | Contents | Host |
@@ -27,11 +29,13 @@
 |Competition| 2021. 10. ~ 2021. 11. | boostcamp AI Tech Competition |[재활용 품목 분류를 위한 Semantic Segmentation](https://github.com/deokgu/semantic-segmentation-level2-cv-09) | [Aistages](https://stages.ai/)|
 | Competition| 2021. 09. ~ 2021. 10.| boostcamp AI Tech Competition|[재활용 품목 분류를 위한 Object Detection](https://github.com/deokgu/object-detection-level2-cv-09) | [Aistages](https://stages.ai/)|
 | Competition|  2021. 08. ~ 2021. 09. | boostcamp AI Tech Competition|[마스크 착용 상태 분류](https://github.com/deokgu/image-classification-level1-23) | [Aistages](https://stages.ai/)|
+<br>
 
-## ...
-#### 💾 [TIL](https://github.com/deokgu/deokgu/wiki)
+## 👀 Etc.
+#### 📩 [Email](onefence1994@gmail.com) &nbsp;&nbsp; 💾 [TIL](https://github.com/deokgu/deokgu/wiki) &nbsp;&nbsp; 🧾 [Portfolio](https://deokgu.notion.site/Mingu-Kwak-ab947ff547884075991fd7fdbd44ee41)
 <!-- https://github.com/iloveslowfood -->
 
+<br>
 
 <p align="center">
 <a href="https://github.com/deokgu">
