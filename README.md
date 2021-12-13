@@ -11,7 +11,7 @@
 ML/DL: PyTorch<br>
 Data Analysis: Pandas, NumPy, Seaborn/MatplotLib<br>
 Language: Python, C/C++<br>
-Using: DVC, CANoe, PySdie2(PyQt5), Docker
+Using: Docker, DVC, CANoe, PySdie2(PyQt5)
 <br>
 
 ## 🫀 Interests
