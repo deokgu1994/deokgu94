@@ -6,20 +6,17 @@
 **🖥😁 I’m currently learning Machine Learning in Boostcamp AI Tech 2nd by NAVER Connect Foundation**
 <br>
 
-
 ## 🔨 Skills
 ML/DL: PyTorch<br>
 Data Analysis: Pandas, NumPy, Seaborn/MatplotLib<br>
 Language: Python, C/C++<br>
 Using: DVC, CANoe, PySdie2(PyQt5), Docker
-
 <br>
 
 ## 🫀 Interests
 MLOps<br>
 Optimizer<br>
-Embedded<br>
-
+Embedded
 <br>
 
 ## 🎡 &nbsp;Activities
@@ -34,12 +31,5 @@ Embedded<br>
 ## 👀 Etc.
 #### 📩 [Email](onefence1994@gmail.com) &nbsp;&nbsp; 💾 [TIL](https://github.com/deokgu/deokgu/wiki) &nbsp;&nbsp; 🧾 [Portfolio](https://deokgu.notion.site/Mingu-Kwak-ab947ff547884075991fd7fdbd44ee41)
 <!-- https://github.com/iloveslowfood -->
-
 <br>
 
-<p align="center">
-<a href="https://github.com/deokgu">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=deokgu&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-<!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=deokgu&layout=compact&langs_count=8&theme=blue-green"/> -->
-</a>
-</p>
