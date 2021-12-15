@@ -4,7 +4,7 @@
 ## Hi there, I'm Mingu Kwak 👋
 
 **🖥😁 I’m currently learning Machine Learning in Boostcamp AI Tech 2nd by NAVER Connect Foundation**<br>
-**📍🧐 
+**📍🧐 **
 <br>
 🧐
 ## 🔨 Skills
