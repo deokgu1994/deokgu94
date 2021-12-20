@@ -4,9 +4,9 @@
 ## Hi there, I'm Mingu Kwak 👋
 
 **🖥😁 I’m currently learning Machine Learning in Boostcamp AI Tech 2nd by NAVER Connect Foundation**<br>
-**📍🧐 **
+<!-- **📍🧐 ** -->
 <br>
-🧐
+
 ## 🔨 Skills
 Language: Python(Intermediate Mid), Linux(Intermediate Mid), C/C++(Novice Mid)<br>
 Using: Docker, PyTroch, CAN Protocol
