@@ -8,7 +8,7 @@
 <br>
 🧐
 ## 🔨 Skills
-Language: Python(Intermediate MID), Linux(Intermediate Mid), C/C++(Novice Mid)<br>
+Language: Python(Intermediate Mid), Linux(Intermediate Mid), C/C++(Novice Mid)<br>
 Used: Docker, PyTroch, CAN Protocol
 <br>
 
