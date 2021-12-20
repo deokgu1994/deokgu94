@@ -8,15 +8,13 @@
 <br>
 🧐
 ## 🔨 Skills
-ML/DL: PyTorch<br>
-Data Analysis: Pandas, NumPy, Seaborn/MatplotLib<br>
-Language: Python, C/C++<br>
-Using: Docker, DVC, CANoe, PySide2(PyQt5)
+Language: Python(Intermediate MID), Linux(Intermediate Mid), C/C++(Novice Mid)<br>
+Used: Docker, PyTroch, CAN Protocol
 <br>
 
 ## ✈ Interests
 MLOps<br>
-optimization<br>
+Optimization<br>
 Embedded
 <br>
 
