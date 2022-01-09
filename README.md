@@ -29,7 +29,7 @@ Embedded
 <br>
 
 ## 👀 Etc.
-#### 📩 [Email](mailto:onefence1994@gmail.com) &nbsp;&nbsp; 💾 [TIL](https://github.com/deokgu/deokgu/wiki) &nbsp;&nbsp; 🧾 [CV](https://deokgu94.github.io)
+#### 📩 [Email](mailto:onefence1994@gmail.com) &nbsp;&nbsp; 💾 [TIL](https://water-gear-ab4.notion.site/0654cc1f1ce442c98f34103cea771e20?v=7626107d9c0a46e1bfd843789d5b55a6) &nbsp;&nbsp; 🧾 [CV](https://deokgu94.github.io)
 <!-- https://github.com/iloveslowfood -->
 <br>
 
