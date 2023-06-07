@@ -18,7 +18,7 @@
 <br>
 
 ## 👀 Etc.
-#### 📩 [Email](mailto:deokgu1994@gmail.com) &nbsp;&nbsp; 🧾 [CV]((https://www.notion.so/deokgu94/Mingu-Kwak-abb5fa05293644488291314fdd0c0372?pvs=4))
+#### 📩 [Email](mailto:deokgu1994@gmail.com) &nbsp;&nbsp; 🧾 [CV](https://www.notion.so/deokgu94/Mingu-Kwak-abb5fa05293644488291314fdd0c0372?pvs=4)
 <!-- https://github.com/iloveslowfood -->
 <br>
 
