@@ -8,17 +8,6 @@
 <!-- **📍🧐 ** -->
 <br>
 
-## 🔨 Skills
-Language: Python(Intermediate Mid), Linux(Intermediate Mid), C/C++(Novice Mid)<br>
-Using: Docker, PyTroch, CAN(Controller Area Network)
-<br>
-
-## ✈ Interests
-MLOps<br>
-Optimization<br>
-Embedded
-<br>
-
 ## 🎡 &nbsp;Activities
 |   Type    |   Date | Title    | Contents | Host |
 |   :---    |   :--- | :------------------------------------------   | :--- |:--- |
@@ -29,7 +18,7 @@ Embedded
 <br>
 
 ## 👀 Etc.
-#### 📩 [Email](mailto:onefence1994@gmail.com) &nbsp;&nbsp; 💾 [TIL](https://water-gear-ab4.notion.site/0654cc1f1ce442c98f34103cea771e20?v=7626107d9c0a46e1bfd843789d5b55a6) &nbsp;&nbsp; 🧾 [CV](https://deokgu94.github.io)
+#### 📩 [Email](mailto:deokgu1994@gmail.com) &nbsp;&nbsp; 🧾 [CV]((https://www.notion.so/deokgu94/Mingu-Kwak-abb5fa05293644488291314fdd0c0372?pvs=4))
 <!-- https://github.com/iloveslowfood -->
 <br>
 
